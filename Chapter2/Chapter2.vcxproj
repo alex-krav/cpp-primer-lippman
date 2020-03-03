@@ -138,7 +138,75 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="auto.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="constant.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="constepr_pointer.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="constexpr.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="const_pointer.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="decltype.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="ex15.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="ex20.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="ex25.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="ex27.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="ex30.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="ex36.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="ex37.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="extern_const.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="null_pointer.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="pointer_pointer.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="ref_const.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="ref_pointer.cpp">
       <SubType>
       </SubType>
     </ClCompile>
@@ -158,6 +226,21 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="type.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="typedef.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="void_pointer.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sales_data.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

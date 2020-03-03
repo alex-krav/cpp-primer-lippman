@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main_pointer()
 {
 	int* ip1, * ip2;
 	double dp, * dp2;

@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main_symbols()
 {
 	int i = 42;
 	int* p = &i; // pointer
