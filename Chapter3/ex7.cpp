@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main_ex7()
 {
 	//string s = "some string";
 	//for (char c : s)
