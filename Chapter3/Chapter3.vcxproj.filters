@@ -78,5 +78,53 @@
     <ClCompile Include="iter_arithmetic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="arrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex27.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_subscript.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex30.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_pointers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_ptr_iter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_begin_end.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_ptr_arithmetic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_deref.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_sub_ptr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex35.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex36.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="char_str.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex37.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex40.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ivec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
