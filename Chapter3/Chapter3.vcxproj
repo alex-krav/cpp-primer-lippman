@@ -246,6 +246,14 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="multi.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="multi_pointers.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="namespace.cpp">
       <SubType>
       </SubType>

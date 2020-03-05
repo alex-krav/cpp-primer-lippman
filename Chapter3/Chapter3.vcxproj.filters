@@ -126,5 +126,11 @@
     <ClCompile Include="ivec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="multi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="multi_pointers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
